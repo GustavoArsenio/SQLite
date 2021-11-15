@@ -1,0 +1,6 @@
+-- Executar as linhas abaixo para exportar tabela para CSV
+.headers on
+.mode csv
+.once meu_teste.csv
+SELECT * FROM meu_teste;
+.system c:/work/dataout.csv

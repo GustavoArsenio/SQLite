@@ -1,0 +1,1 @@
+CREATE TABLE meu_teste( msg varchar(255), id int );
